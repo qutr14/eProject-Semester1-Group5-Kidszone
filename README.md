@@ -15,7 +15,7 @@ Group members      Name
                           
 ============================
 
-eProject documentation at: https://github.com/DH-Pub/eProject-CambridgeHospital/tree/main/0%20-%20documents
+eProject documentation at: https://github.com/qutr14/eProject-Semester1-Kidszone/tree/main/document
 
 ============================
 
