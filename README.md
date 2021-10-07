@@ -19,7 +19,7 @@ eProject documentation at: https://github.com/qutr14/eProject-Semester1-Kidszone
 
 ============================
 
-eProject published at: https://dh-pub.github.io/eProject-CambridgeHospital/#!/
+eProject published at: https://qutr14.github.io/eProject-Semester1-Kidszone/
 
 ============================
 
