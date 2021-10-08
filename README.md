@@ -10,11 +10,8 @@ Project-title: Kids zone Website
 
 4 collarborators:
 
-Group members                   Name                                  Student ID
-                            Trần Thanh Sơn (Team leader)          Student1320497
-                            Nguyễn Diệu Khánh                     Student1320497
-                            Trần Quang Thái Phụng                 Student1320497
-                            Lê Quốc Trung                         Student1320497
+[image](https://user-images.githubusercontent.com/87857683/136509579-97339c90-3a66-4768-b585-cf6279136f4f.png)
+
                            
 =============================
 
