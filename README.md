@@ -9,9 +9,8 @@ Project-title: Kids zone Website
 =========> Group 5 <=========
 
 4 collarborators:
-
-Group members****************Name**********************************Student ID
---------------------------Đào Bùi Quang Hưng(Team leader)------Student1319917
+Name**********************************Student ID
+Đào Bùi Quang Hưng(Team leader)------Student1319917
 --------------------------Đào Bùi Quang Hưng(Team leader)------Student1319917   
 --------------------------Đào Bùi Quang Hưng(Team leader)------Student1319917
 --------------------------Đào Bùi Quang Hưng(Team leader)------Student1319917
