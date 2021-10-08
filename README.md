@@ -10,9 +10,11 @@ Project-title: Kids zone Website
 
 4 collarborators:
 
-[image](https://user-images.githubusercontent.com/87857683/136509579-97339c90-3a66-4768-b585-cf6279136f4f.png)
-
-                           
+Group members                  Name	                           Student ID
+                          Đào Bùi Quang Hưng (Team leader)     Student1319917
+                          Nguyễn Ngọc Kim Ngân                 Student1317115 
+                          Lê Đức Gia Thịnh                     Student1318431       
+                         
 =============================
 
 eProject documentation at: https://github.com/qutr14/eProject-Semester1-Kidszone/tree/main/document
