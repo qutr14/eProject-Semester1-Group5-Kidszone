@@ -19,11 +19,11 @@ Lê Quốc Trung -------------------- Student1320497
                          
 =============================
 
-eProject documentation at: https://github.com/qutr14/eProject-Semester1-Kidszone/tree/main/document
+eProject documentation at: https://github.com/qutr14/eProject-Semester1-Group5-Kidszone/tree/main/document
 
 =============================
 
-eProject published at: https://qutr14.github.io/eProject-Semester1-Kidszone/
+eProject published at: https://qutr14.github.io/eProject-Semester1-Group5-Kidszone/
 
 =============================
 
